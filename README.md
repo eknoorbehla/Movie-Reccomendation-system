@@ -11,7 +11,9 @@ https://share.streamlit.io/eknoorbehla/movie-reccomendation-system/main/app.py
 
 # Techonologies used
 
+Streamlit
 
+Python
 
 # Author
 Eknoor kaur
